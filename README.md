@@ -33,3 +33,7 @@ VBoxManage modifyvm "MacVM" --cpu-profile "Intel Core i5-3570"
 VBoxManage modifyvm "MacVM" --cpu-profile "Intel Core i7-5600U"
 
 ```
+### Efi shell
+```
+FS#:/System/Library/CoreService
+boot.efi
